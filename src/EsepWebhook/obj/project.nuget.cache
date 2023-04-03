@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "oH3MJAWXRdOVYZztM6GmSlNwE580pTyXE/kJcMEciAZxz8Yi4doaW4Rv8E/AAeAUgtdJCkM0hy+SgkgmfCDGrw==",
+  "dgSpecHash": "X0d6ysImszKFr6zNbe6wvb/T/zclb2ydjz5hUUAVynLlr5kPglqGOqCPZfT8i8jBdfilCnPtAkk4UxNyylfvYQ==",
   "success": true,
   "projectFilePath": "/Users/vishaljanapati/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
   "expectedPackageFiles": [
     "/Users/vishaljanapati/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
     "/Users/vishaljanapati/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "/Users/vishaljanapati/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/vishaljanapati/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
     "/Users/vishaljanapati/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.15/microsoft.netcore.app.runtime.linux-x64.6.0.15.nupkg.sha512",
     "/Users/vishaljanapati/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
